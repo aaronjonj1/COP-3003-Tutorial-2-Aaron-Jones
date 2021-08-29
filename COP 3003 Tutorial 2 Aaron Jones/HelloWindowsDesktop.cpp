@@ -1,4 +1,5 @@
-
+// Aaron Jones
+// https://docs.microsoft.com/en-us/cpp/windows/walkthrough-creating-windows-desktop-applications-cpp?view=msvc-160
 // HelloWindowsDesktop.cpp
 // compile with: /D_UNICODE /DUNICODE /DWIN32 /D_WINDOWS /c
 
